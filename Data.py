@@ -25,12 +25,12 @@ Made with 💕 By @Tellybots_4u
     ]
 
     generate_button = [
-        [InlineKeyboardButton("Start Generating Session", callback_data="generate")]
+        [InlineKeyboardButton("🔻Start Generating Session🔻", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("Start Generating Session", callback_data="generate")],
+        [InlineKeyboardButton("🔻Start Generating Session🔻", callback_data="generate")],
         [InlineKeyboardButton("📡 Update Channel", url="https://t.me/tellybots_4u")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
@@ -57,11 +57,11 @@ Made with 💕 By @Tellybots_4u
 
 Maintained By : [Tellybots4u](https://t.me/tellybots_4u)
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+Source Code : [Click Here](https://t.me/tellybots_digital)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : [Tellybotshelp](https://t.me/tellybots_help)
+Hosted on : [Heroku](https://heroku.com)
     """
